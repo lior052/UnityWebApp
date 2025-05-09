@@ -1,0 +1,10 @@
+<suite name="Unity Automation Suite" parallel="classes" thread-count="2">
+
+
+    <test name="Lior Tests">
+        <classes>
+            <class name="org.tests.APITests"/>
+            <class name="org.tests.UITests"/>
+        </classes>
+    </test>
+</suite>
