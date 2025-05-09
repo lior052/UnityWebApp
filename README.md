@@ -1,2 +1,3 @@
 # UnityWebApp
-This repo is a home assignment fot candidates to Unity
+This repo is a home assignment for candidates to Unity
+Created by Lior Wasserzug.
